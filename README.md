@@ -1,4 +1,3 @@
 sequence-informatics
 ====================
-
-Sequence Informatics
+Initial README file for ``sequence-informatics`` project
